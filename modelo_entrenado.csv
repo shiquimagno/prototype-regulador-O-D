@@ -1,0 +1,9 @@
+parametro,valor
+w,-0.85285871096152
+X_mean,12.461043643263755
+X_std,5.625623393834035
+y_mean,20.824656591470895
+y_std,7.6438995760745225
+error_final,0.27263201415224664
+hiperparametros_learning_rate,0.1
+hiperparametros_lambda_reg,0.0
